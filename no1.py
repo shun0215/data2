@@ -1,2 +1,4 @@
 print(123)
-print("Qwe")
+print("qwe")
+print("qqq")
+print("test")
